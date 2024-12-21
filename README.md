@@ -16,8 +16,17 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/NA-Asraful-Khan/PaginationAPI.git
+   ```
+1. Go To PaginationAPI Folder:
+   ```bash
    cd PaginationAPI
+   ```
+1. Install Dependencies:
+   ```bash
    npm install
+   ```
+1. Start The Server:
+   ```bash
    npm run start
    ```
 
