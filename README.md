@@ -32,4 +32,4 @@ Ensure you have the following installed on your machine:
 
 ## Preview
 
-[Preview Link](http://localhost:3000)
+[http://localhost:3000](http://localhost:3000)
